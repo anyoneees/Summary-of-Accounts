@@ -17,8 +17,7 @@ namespace ConsoleApp3
             Console.WriteLine("*                                              *");
             Console.WriteLine("************************************************");
             Console.ReadLine();
-            ConsoleColor BackGround = ConsoleColor.Black;
-            Console.BackgroundColor = BackGround;
+
             string tempName = "Имя:               ";
             Console.Write(tempName);
             ConsoleColor LastNameColor = ConsoleColor.Cyan;
